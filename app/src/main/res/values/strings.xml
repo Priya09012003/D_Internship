@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">D_Internship</string>
+    <string name="refine">Refine</string>
+    <string name="explore">Explore</string>
+    <string name="network">Network</string>
+    <string name="chat">Chat</string>
+    <string name="contacts">Contacts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+<!--Names-->
+    <string name="head_1">Michael Murphy</string>
+    <string name="head_2">Ana David</string>
+    <string name="head_3">Steve Henry</string>
+    <string name="head_4">Liza Dsouza</string>
+    <string name="head_5">John Doe</string>
+
+    <!--location-->
+    <string name="location1">San Francisco, within 1km</string>
+    <string name="location2">San Francisco, within 1km</string>
+    <string name="location3">San Francisco, within 1km</string>
+    <string name="location4">San Francisco, within 1km</string>
+    <string name="location5">San Francisco, within 1km</string>
+
+
+    <!--Names-->
+    <string name="choices1">Friendship | Cofee | Hangout</string>
+    <string name="choices2">Cofee | Movies | Hobbies</string>
+    <string name="choices3">Cofee | Movies | Hobbies</string>
+    <string name="choices4">Friendship | Cofee | Hangout</string>
+    <string name="choices5">Friendship | Cofee | Hangout</string>
+
+
+    <!--Names-->
+    <string name="last1">Hi community! I am open to new connections.</string>
+    <string name="last2">Hi community! I am open to new connections.</string>
+    <string name="last3">Going to Berkley,would love to share a ride with someone like minded.</string>
+    <string name="last4">Hi community! I am open to new connections.</string>
+    <string name="last5">Hi community! I am open to new connections.</string>
+
+
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:drawable="@drawable/baseline_arrow_drop_down_24"
+    android:width="30dp"
+    android:height="36dp"
+    android:gravity="end"
+    />
+<item>
+    <shape>
+        <stroke android:width="2dp"/>
+        <stroke android:color="#a3a8ab"/>
+        <corners android:radius="14dp" /> <!-- Adjust the radius to control the corner roundness -->
+    </shape>
+</item>
+</layer-list>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Refine"
+        android:title="@string/refine"
+        android:icon="@drawable/baseline_checklist_24"/>
+
+    <item android:id="@+id/Explore"
+        android:title="@string/explore"
+        android:icon="@drawable/baseline_remove_red_eye_24"/>
+
+    <item android:id="@+id/Network"
+        android:title="@string/network"
+        android:icon="@drawable/i"/>
+
+    <item android:id="@+id/Chat"
+        android:title="@string/chat"
+        android:icon="@drawable/chat"/>
+
+    <item android:id="@+id/Contacts"
+        android:title="@string/contacts"
+        android:icon="@drawable/contact"/>
+
+
+</menu>
